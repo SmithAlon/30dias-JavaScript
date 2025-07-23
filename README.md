@@ -119,8 +119,7 @@ Su trabajo en la **Academia midudev** y en la comunidad de desarrollo ha sido fu
 
 ## 📞 Contacto
 
-- GitHub: [@smithalon](https://github.com/smithalon)
-- Twitter: [@tutwitter](https://twitter.com/tutwitter)
+- GitHub: [@SmithAlon](https://github.com/SmithAlon)
 
 ## 📄 Licencia
 
