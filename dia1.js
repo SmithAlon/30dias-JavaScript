@@ -1,3 +1,5 @@
+// Detectar el valor de un hechizo basado en símbolos mágicos
+
 const simbolos = [{
     simbolo: '☽',
     valor: 1
