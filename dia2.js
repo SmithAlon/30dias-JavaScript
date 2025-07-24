@@ -1,3 +1,5 @@
+// Detectar archivos comprometidos en un sistema de drones
+
 const lastSafeDownload = 1670000000;
 const droneLogs = [
   [42, 1670000500],
